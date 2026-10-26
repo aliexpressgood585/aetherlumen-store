@@ -1,0 +1,228 @@
+[
+  {
+    "id": "led-face-mask",
+    "name": "AetherLumen Pro LED Face Mask",
+    "price": 89,
+    "sku": "AL-MASK-01",
+    "image": "led-face-mask.webp",
+    "imageWidth": 784,
+    "imageHeight": 1168,
+    "detail": "led-face-mask-detail.webp",
+    "detailWidth": 548,
+    "detailHeight": 560,
+    "alt": "LED face mask on a dark neutral background",
+    "detailAlt": "Closer crop of the same LED face mask photograph",
+    "summary": "Cordless, rechargeable face mask with seven light colors, including red, blue, and near-infrared.",
+    "description": "The AetherLumen Pro LED Face Mask is a cordless, rechargeable mask for at-home use. It has seven light colors, including red, blue, and near-infrared. Follow the instructions that come in the box. This page does not promise a medical or cosmetic result.",
+    "specs": [
+      ["Form", "Face mask"],
+      ["Light colors", "7, including red, blue, and near-infrared"],
+      ["Power", "Cordless, rechargeable"],
+      ["Intended use", "Daily at-home sessions, as the included manual describes"]
+    ],
+    "howToUse": [
+      "Read the manual in the box before the first session.",
+      "Charge the mask first if the manual says to.",
+      "Use it on clean, dry skin unless the manual says otherwise.",
+      "Stop if your skin stings, you feel unwell, or the device gets unusually hot.",
+      "Keep it away from water and from children."
+    ],
+    "whatToExpect": [
+      "This is a light-therapy mask for a regular at-home routine. People respond differently, and this store does not have published customer results for this product yet.",
+      "There is no before-and-after photo on this page. We only publish a customer photo after that person sends it and we approve it."
+    ]
+  },
+  {
+    "id": "massage-gun",
+    "name": "Pulse Recovery Massage Gun",
+    "price": 69,
+    "sku": "AL-GUN-01",
+    "image": "massage-gun.webp",
+    "imageWidth": 784,
+    "imageHeight": 1168,
+    "detail": "massage-gun-detail.webp",
+    "detailWidth": 548,
+    "detailHeight": 560,
+    "alt": "Percussion massage gun on a neutral background",
+    "detailAlt": "Closer crop of the same massage gun photograph",
+    "summary": "Percussion massage gun with multiple speed settings and interchangeable heads.",
+    "description": "The Pulse Recovery Massage Gun is a percussion massager for at-home muscle massage. It has multiple speed settings and interchangeable heads. It is a consumer device, not a substitute for medical care.",
+    "specs": [
+      ["Type", "Percussion massage gun"],
+      ["Speeds", "Multiple settings"],
+      ["Heads", "Interchangeable"],
+      ["Intended use", "At-home muscle massage"]
+    ],
+    "howToUse": [
+      "Read the manual before first use, including which head is meant for which area.",
+      "Start on a lower speed.",
+      "Keep the head moving. Do not press into the front of the neck, the spine, or a recent injury.",
+      "Stop if you feel sharp pain, numbness, or bruising."
+    ],
+    "whatToExpect": [
+      "People use a massage gun for short recovery sessions at home. How it feels depends on the speed, the head, and the person.",
+      "This store does not have published customer results for this product yet, and there is no before-and-after photo here."
+    ]
+  },
+  {
+    "id": "posture-corrector",
+    "name": "Posture AI Corrector",
+    "price": 54,
+    "sku": "AL-POSTURE-01",
+    "image": "posture-corrector.webp",
+    "imageWidth": 784,
+    "imageHeight": 1168,
+    "detail": "posture-corrector-detail.webp",
+    "detailWidth": 548,
+    "detailHeight": 560,
+    "alt": "Wearable posture device shown on a model from behind, on a neutral background",
+    "detailAlt": "Closer crop of the same posture device photograph",
+    "summary": "Wearable posture device with a gentle vibration alert. Lightweight and adjustable.",
+    "description": "The Posture AI Corrector is a wearable device that gives a gentle vibration alert. It is lightweight and adjustable, and it is described as something you can wear under clothing. A vibration is a reminder. It is not a medical treatment and it does not diagnose a posture condition.",
+    "specs": [
+      ["Type", "Wearable posture device"],
+      ["Alert", "Gentle vibration"],
+      ["Fit", "Adjustable"],
+      ["Build", "Lightweight"]
+    ],
+    "howToUse": [
+      "Adjust the fit so it is snug and not painful.",
+      "Follow the wear-time guidance in the included instructions.",
+      "Stop if you feel numbness, pain, or skin irritation.",
+      "Do not rely on it while driving or doing anything that needs your full attention if the vibration distracts you."
+    ],
+    "whatToExpect": [
+      "The device is meant to remind you with a vibration while you wear it. Whether that changes how you sit depends on you.",
+      "We do not have customer results to publish for this product yet."
+    ]
+  },
+  {
+    "id": "red-light-belt",
+    "name": "Red Light Therapy Belt",
+    "price": 99,
+    "sku": "AL-BELT-01",
+    "image": "red-light-belt.webp",
+    "imageWidth": 784,
+    "imageHeight": 1168,
+    "detail": "red-light-belt-detail.webp",
+    "detailWidth": 548,
+    "detailHeight": 560,
+    "alt": "Flexible red light therapy belt on a neutral background",
+    "detailAlt": "Closer crop of the same red light therapy belt photograph",
+    "summary": "Flexible wrap with red and near-infrared light and adjustable straps.",
+    "description": "The Red Light Therapy Belt is a flexible wrap with red and near-infrared light for targeted at-home use. It closes with adjustable straps. Session length and placement should follow the included manual. This listing does not promise a medical result.",
+    "specs": [
+      ["Light", "Red and near-infrared"],
+      ["Form", "Flexible wrap"],
+      ["Closure", "Adjustable straps"],
+      ["Intended use", "Targeted at-home sessions"]
+    ],
+    "howToUse": [
+      "Read the manual for placement and session length before you turn it on.",
+      "Use it on intact skin, or over a thin cloth if the manual allows that.",
+      "Do not fall asleep while it is powered on.",
+      "Unplug or power it down if it feels excessively hot, and stop if your skin is irritated."
+    ],
+    "whatToExpect": [
+      "This is a light wrap for short sessions on a specific area. What you notice, if anything, depends on the person and on following the manual.",
+      "There is no before-and-after photo here. We have no published customer results for this product yet."
+    ]
+  },
+  {
+    "id": "sunrise-alarm",
+    "name": "Sunrise Smart Alarm Clock",
+    "price": 79,
+    "sku": "AL-ALARM-01",
+    "image": "sunrise-alarm.webp",
+    "imageWidth": 784,
+    "imageHeight": 1168,
+    "detail": "sunrise-alarm-detail.webp",
+    "detailWidth": 548,
+    "detailHeight": 560,
+    "alt": "Sunrise-style alarm clock with a wood accent on a dark background",
+    "detailAlt": "Closer crop of the same sunrise alarm photograph",
+    "summary": "Alarm that brightens gradually, with white noise and adjustable light intensity.",
+    "description": "The Sunrise Smart Alarm Clock is a bedside alarm that brightens gradually. It includes white noise and an adjustable light level, in a design with a wood accent. It is a light and an alarm. It is not a medical sleep device.",
+    "specs": [
+      ["Wake light", "Gradual brightening"],
+      ["Sound", "White noise"],
+      ["Light level", "Adjustable intensity"],
+      ["Design", "Wood accent"]
+    ],
+    "howToUse": [
+      "Place it where you can see the light from bed, at the distance the manual recommends.",
+      "Set the alarm time and the light level before the night you want to use it.",
+      "Turn on white noise only if you want sound with the light.",
+      "Keep the power cord where it will not be pulled or tripped over."
+    ],
+    "whatToExpect": [
+      "The light comes up before the alarm time you set, instead of a sudden sound in a dark room. Whether that makes waking easier varies.",
+      "We do not have published customer results for this product yet."
+    ]
+  },
+  {
+    "id": "scalp-massager",
+    "name": "Electric Scalp Massager",
+    "price": 39,
+    "sku": "AL-SCALP-01",
+    "image": "scalp-massager.webp",
+    "imageWidth": 784,
+    "imageHeight": 1168,
+    "detail": "scalp-massager-detail.webp",
+    "detailWidth": 548,
+    "detailHeight": 560,
+    "alt": "Handheld electric scalp massager with soft nodes on a neutral background",
+    "detailAlt": "Closer crop of the same scalp massager photograph",
+    "summary": "Handheld electric scalp massager with soft nodes.",
+    "description": "The Electric Scalp Massager is a handheld device with soft nodes for an at-home scalp massage. It is a massage tool. It is not a treatment for hair loss, and this page does not promise hair growth.",
+    "specs": [
+      ["Form", "Handheld"],
+      ["Contact", "Soft nodes"],
+      ["Power", "Electric"],
+      ["Intended use", "Scalp massage at home"]
+    ],
+    "howToUse": [
+      "Use it on dry hair unless the manual says wet hair is allowed.",
+      "Keep it moving and use light pressure.",
+      "Do not use it on broken skin or on a scalp that is already irritated.",
+      "Charge or plug it in only in the way the manual describes."
+    ],
+    "whatToExpect": [
+      "Most people use this for a short massage. It should feel like pressure from the soft nodes, not like a medical treatment.",
+      "We do not have published customer results for this product yet."
+    ]
+  },
+  {
+    "id": "jade-roller-set",
+    "name": "Jade Roller & Gua Sha Set",
+    "price": 29,
+    "sku": "AL-JADE-01",
+    "image": "jade-roller-set.webp",
+    "imageWidth": 784,
+    "imageHeight": 1168,
+    "detail": "jade-roller-set-detail.webp",
+    "detailWidth": 548,
+    "detailHeight": 560,
+    "alt": "Jade roller and gua sha set with its box on a light background",
+    "detailAlt": "Closer crop of the same jade roller and gua sha photograph",
+    "summary": "A roller and a gua sha stone, sold as a set of natural jade facial tools.",
+    "description": "The Jade Roller & Gua Sha Set includes a roller and a gua sha stone, described as natural jade, in gift-style packaging. The tools are for a gentle at-home facial massage. Natural stone color varies. This page does not promise a change in facial structure or skin.",
+    "specs": [
+      ["Includes", "Roller and gua sha stone"],
+      ["Material", "Natural jade, as described for this set"],
+      ["Packaging", "Gift-style box"],
+      ["Intended use", "Gentle facial massage at home"]
+    ],
+    "howToUse": [
+      "Wash both tools with mild soap and water and dry them before the first use.",
+      "Use a face oil or serum if you want the stone to glide, and use light pressure.",
+      "Roll outward from the center of the face. For the gua sha, use short strokes and stay away from the eyes.",
+      "Do not use the tools on broken skin. Do not use a stone that is cracked or chipped.",
+      "Stone can chip if it is dropped."
+    ],
+    "whatToExpect": [
+      "A session is a few minutes of light massage. The stone will feel cool at the start. That is the tool working as a smooth stone, not a measured clinical effect.",
+      "We do not publish before-and-after photos, and we have no customer reviews for this set yet."
+    ]
+  }
+]
