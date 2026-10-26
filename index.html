@@ -1,1 +1,87 @@
-PLACEHOLDER_HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AetherLumen | Premium Wellness & Recovery</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">
+        <img src="images/vWHL9.jpg" alt="AetherLumen Logo">
+        <span>AetherLumen</span>
+      </div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#products">Products</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <div class="cart-icon" onclick="toggleCart()">
+        🛒 <span id="cart-count">0</span>
+      </div>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h1>Illuminate Your Wellness Journey</h1>
+      <p>Premium at-home light therapy, recovery, and beauty devices designed for modern living.</p>
+      <a href="#products" class="cta-btn">Shop Now</a>
+    </div>
+  </section>
+
+  <section id="products" class="products">
+    <h2>Our Collection</h2>
+    <div class="product-grid" id="product-grid">
+      <!-- Products will be injected by JS -->
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About AetherLumen</h2>
+    <p>We curate the finest bio-hacking and wellness technologies. From clinical-grade LED therapy to intelligent recovery tools, every product is selected for performance, design, and results. Experience spa-level care in the comfort of your home.</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>Questions about orders or products? Reach out at hello@aetherlumen.com</p>
+    <form class="contact-form">
+      <input type="text" placeholder="Name" required>
+      <input type="email" placeholder="Email" required>
+      <textarea placeholder="Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 AetherLumen. All rights reserved. | Dropshipping Store Demo</p>
+  </footer>
+
+  <!-- Cart Sidebar -->
+  <div id="cart-sidebar" class="cart-sidebar">
+    <div class="cart-header">
+      <h3>Your Cart</h3>
+      <button onclick="toggleCart()">×</button>
+    </div>
+    <div id="cart-items"></div>
+    <div class="cart-total">
+      <p>Total: $<span id="cart-total">0.00</span></p>
+      <button class="checkout-btn" onclick="checkout()">Checkout</button>
+    </div>
+  </div>
+
+  <!-- Product Modal -->
+  <div id="product-modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">&times;</span>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
